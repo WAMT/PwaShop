@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/PwaShop/static/css/main.6dcddc5d.css",
+    "main.js": "/PwaShop/static/js/main.24f8eb9f.js",
+    "static/js/787.b542ce12.chunk.js": "/PwaShop/static/js/787.b542ce12.chunk.js",
+    "static/media/roader.gif": "/PwaShop/static/media/roader.73917bbc4e4576ab4ac3.gif",
+    "service-worker.js": "/PwaShop/service-worker.js",
+    "static/media/12.jpg": "/PwaShop/static/media/12.2685a70092bd12197198.jpg",
+    "index.html": "/PwaShop/index.html",
+    "main.6dcddc5d.css.map": "/PwaShop/static/css/main.6dcddc5d.css.map",
+    "main.24f8eb9f.js.map": "/PwaShop/static/js/main.24f8eb9f.js.map",
+    "787.b542ce12.chunk.js.map": "/PwaShop/static/js/787.b542ce12.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6dcddc5d.css",
+    "static/js/main.24f8eb9f.js"
+  ]
+}
